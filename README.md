@@ -8,4 +8,8 @@ psw: 2222
 
 Unfinished:(
 
+To run:
+1. Clone this repository to the ampps/www
+2. Open browser and type localhost/fFILE_BROWSER
+
 
