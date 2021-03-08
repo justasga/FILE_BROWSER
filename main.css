@@ -1,0 +1,47 @@
+
+h1{
+  color: black;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+
+table.main {
+  background-color: lightgrey;
+  width: 100%;
+  text-align: center;
+}
+
+table.redTable tr:hover {
+  background: #AAAAAA;
+}
+
+table.main tfoot .links {
+  text-align: center;
+}
+tn {
+  color: lightgrey;
+}
+
+.newDirDiv {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.create_btn, .btn_login {
+	padding: 5px;
+	cursor: pointer;
+	color:black;
+  background-color: lightgrey;
+}
+
+.log_div, .log_input {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
